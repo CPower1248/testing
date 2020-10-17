@@ -8,7 +8,6 @@ export default function App() {
 
   return (
     <div className="App">
-
       <Link to="/">Home</Link>
       <Link to="/Form">Form</Link>
       <div>
